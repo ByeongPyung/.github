@@ -1,1 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&height=240&section=footer&text=ByeongPyung&fontSize=80&&animation=fadeIn&fontColor=EEF2FF&fontAlignY=62&color=676FA3)
+
+## 소개
+인천 어느 한 고등학교 남학생들끼리 프로젝트 만들기 위해 발악할려고 만든 Organiztion
