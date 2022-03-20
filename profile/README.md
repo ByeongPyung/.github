@@ -7,9 +7,9 @@
 <br>
 
 ## 🙋‍♂️ 팀원 소개 🙋‍♂️
-| 팀원 | 역할 | 분야 |
-| ------ | ------ | ------ |
-| [김현민](https://github.com/qetqet910) | 팀장 | ??? |
-| [김택준](https://github.com/Kuah0) | 팀원 | ??? |
-| [이정민](https://github.com/rnlsrnlsdl) | 팀원 | ??? |
-| [홍인성](https://github.com/BackdevHong) | 팀원 | ??? |
+| 팀원 | 역할 | 역할 |
+|:------:|:------:|:------:|
+| [김현민](https://github.com/qetqet910) | 팀장 | 프론트, WebGL |
+| [김택준](https://github.com/Kuah0) | 팀원 | 백엔드 |
+| [이정민](https://github.com/rnlsrnlsdl) | 팀원 | 기획, 디자인 |
+| [홍인성](https://github.com/BackdevHong) | 팀원 | 백엔드 |
