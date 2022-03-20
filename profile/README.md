@@ -8,7 +8,7 @@
 ## 팀원 소개
 | 팀원 | 역할 | 담당 업무
 | ------ | ------ | ------ |
-| 김현민 | 팀장 | ??? |
+| [김현민](https://github.com/qetqet910) | 팀장 | ??? |
 | [김택준](https://github.com/Kuah0) | 팀원 | ??? |
-| 이정민 | 팀원 | ??? |
-| 홍인성 | 팀원 | ??? |
+| [이정민](https://github.com/rnlsrnlsdl) | 팀원 | ??? |
+| [홍인성](https://github.com/BackdevHong) | 팀원 | ??? |
