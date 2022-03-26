@@ -1,7 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&height=240&section=footer&text=ByeongPyung&fontSize=80&&animation=fadeIn&fontColor=EEF2FF&fontAlignY=62&color=676FA3)
+![KakaoTalk_20220327_035740170](https://user-images.githubusercontent.com/79036088/160253686-b1a9d894-3247-4b65-8b73-78f23488ec6d.jpg)
 
 ## 📖 소개 📖
-- 인천 어느 한 고등학교 남학생들끼리 프로젝트를 만들기 위해 발악하려고 만든 팀
+- 인천 어느 한 고등학교 남학생들끼리 프로젝
+트를 만들기 위해 발악하려고 만든 팀
 - 어디선가 인정받을만한 프로젝트를 만들 때까지 다들 파이팅 ~
 
 <br>
