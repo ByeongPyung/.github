@@ -9,10 +9,10 @@
 # 🙋‍♂️ 팀원 소개 🙋‍♂️
 | 팀원 | 역할 | 역할 |
 |:------:|:------:|:------:|
-| [김현민](https://github.com/qetqet910) | 팀장 | 광대, 디자인 |
+| [김현민](https://github.com/qetqet910) | 팀장 | 프론트, 디자인 |
 | [홍인성](https://github.com/BackdevHong) | 팀원 | 프론트 |
 | [김준규](https://github.com/DeveloperK0) | 팀원 | 프론트 |
-| [김택준](https://github.com/KIMTAEKJUN) | 팀원 | 백엔드, DB |
+| [김택준](https://github.com/KIMTAEKJUN) | 팀원 | 백엔드, Devops |
 | [이정민](https://github.com/rnlsrnlsdl) | 팀원 | 기획, 디자인 |
 
 <br>
